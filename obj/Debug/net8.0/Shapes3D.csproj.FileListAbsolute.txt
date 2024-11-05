@@ -1,0 +1,14 @@
+C:\Users\GuNX1\Shapes3D\obj\Debug\net8.0\Shapes3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GuNX1\Shapes3D\obj\Debug\net8.0\Shapes3D.AssemblyInfoInputs.cache
+C:\Users\GuNX1\Shapes3D\obj\Debug\net8.0\Shapes3D.AssemblyInfo.cs
+C:\Users\GuNX1\Shapes3D\obj\Debug\net8.0\Shapes3D.csproj.CoreCompileInputs.cache
+C:\Users\GuNX1\Shapes3D\bin\Debug\net8.0\Shapes3D.exe
+C:\Users\GuNX1\Shapes3D\bin\Debug\net8.0\Shapes3D.deps.json
+C:\Users\GuNX1\Shapes3D\bin\Debug\net8.0\Shapes3D.runtimeconfig.json
+C:\Users\GuNX1\Shapes3D\bin\Debug\net8.0\Shapes3D.dll
+C:\Users\GuNX1\Shapes3D\bin\Debug\net8.0\Shapes3D.pdb
+C:\Users\GuNX1\Shapes3D\obj\Debug\net8.0\Shapes3D.dll
+C:\Users\GuNX1\Shapes3D\obj\Debug\net8.0\refint\Shapes3D.dll
+C:\Users\GuNX1\Shapes3D\obj\Debug\net8.0\Shapes3D.pdb
+C:\Users\GuNX1\Shapes3D\obj\Debug\net8.0\Shapes3D.genruntimeconfig.cache
+C:\Users\GuNX1\Shapes3D\obj\Debug\net8.0\ref\Shapes3D.dll
